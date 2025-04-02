@@ -2,14 +2,14 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags:
   - Target
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - player
   - Water
   - UI
   - 
@@ -45,3 +45,5 @@ TagManager:
   - name: Game
     uniqueID: 1885189259
     locked: 0
+  m_RenderingLayers:
+  - Default
